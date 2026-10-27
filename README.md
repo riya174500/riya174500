@@ -1,118 +1,125 @@
-# Hi there, I am Riya 👋
+<!-- Header -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667EEA,50:764BA2,100:F093FB&text=Riya%20Mahajan&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Data%20Analytics%20%E2%80%A2%20Business%20Intelligence%20%E2%80%A2%20Data%20Storytelling&descAlignY=70" />
+</p>
+
+<h1 align="center"> 👋 Hi, I'm Riya </h1>
+
+<p align="center">
+Passionate about transforming complex datasets into clear, actionable insights through analytics, visualisation, and business intelligence.
+</p>
+
+---
 
 ## 🚀 About Me
 
-I am an aspiring **Data Analyst** with hands-on experience in transforming raw data into meaningful insights through data analysis, visualisation and reporting.
-
-Through my Data Technician Bootcamp projects, I have developed practical skills in data cleaning, business intelligence, dashboard development, and data storytelling using industry-standard tools. I enjoy working with data to uncover trends, solve business problems and support data-driven decision-making.
+- 📊 Data Analyst with **2+ years of experience** in healthcare and commercial analytics
+- 📈 Experienced in building KPI dashboards, performance reports, and business intelligence solutions
+- 🗄️ Strong background in SQL, Excel, Python, Tableau, and Power BI
+- ☁️ Expanding expertise in Azure Data Services and Microsoft Fabric
+- 📉 Passionate about data storytelling, analytics, and decision support
+- 🌱 Continuously learning and building end-to-end data analytics projects
 
 ---
 
-## 💻 Technical Skills
+## 🔧 Tools & Technologies
 
-### 📊 Data Analysis & Visualisation
-- Microsoft Excel
-- Tableau
-- Power BI
-- Data Storytelling
-- Dashboard Design
-- KPI Reporting
+<p align="center">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="80" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="80" alt="Tableau"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="80" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="80" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="80" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="80" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="80" alt="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="80" alt="Azure"/>
+  
+</p>
 
-### 🧮 Excel
-- PivotTables & Pivot Charts
-- VLOOKUP, SUMIF, AVERAGEIF
-- SWITCH, UNIQUE Functions
+---
+
+## 💼 Core Skills
+
+### 📈 Data Analysis
 - Data Cleaning & Validation
-- Dashboard Creation
-- Data Analysis & Reporting
-
-### 📈 Tableau
-- Interactive Dashboards
-- Calculated Fields
-- Filters & Slicers
-- Maps & Geographic Visualisations
-- Data Storytelling
+- Exploratory Data Analysis (EDA)
 - Trend Analysis
-
-### 📊 Power BI
-- Power Query
+- Statistical Analysis  
 - Data Transformation
+- Business Analytics
+- Commercial Analytics
+- Healthcare Analytics
+
+### 📊 Data Visualisation
+- Dashboard Development
+- KPI Reporting
+- Executive Reporting
+- Data Storytelling
+- Interactive Visualisations
+- Performance Monitoring
+
+### 🗄️ Data Management
+- SQL Querying
+- Data Extraction
+- Relational Databases
 - Data Modelling
-- DAX Measures & Calculated Columns
-- Interactive Reports
-- Business Intelligence Reporting
-
-### 🗄️ SQL
-- Data Retrieval & Manipulation
-- Joins
-- Aggregations
-- Subqueries
-- Data Analysis Queries
-- Database Management Fundamentals
-
-### ☁️ Azure Data
-- Azure Data Fundamentals
-- Cloud Data Concepts
-- Data Storage Solutions
-- Relational & Non-Relational Data
-- Data Integration Concepts
-
-### 🐍 Python
-- Data Analysis
-- Data Cleaning
-- Data Manipulation
-- Automation Scripts
-- Exploratory Data Analysis
-
-### 🐼 Pandas
-- Data Wrangling
-- Data Transformation
-- Data Cleaning
-- Data Aggregation
-- Data Exploration
+- Data Quality & Reconciliation
 
 ---
 
-## 🏆 Featured Projects
+## 📂 Featured Portfolio Projects
 
-### 📊 Excel Data Analysis Project
-- Data analysis using advanced Excel functions
-- PivotTables, charts, and business reporting
-- Retail and sales data insights
+### 📊 Excel Analytics & Dashboarding
+Business reporting, PivotTables, advanced formulas, dashboards, and sales analysis.
+### 📈 Tableau Data Storytelling & Visualisation
+Interactive dashboards, calculated fields, filters, maps, and visual analytics.
+### 📊 Power BI Reporting & Business Analysis
+Power Query, DAX, data modelling, KPI reporting, and executive dashboards.
+### 🗄️ SQL Analytics & Database Design
+Database design, joins, aggregations, business reporting, and data exploration.
+### ☁️ Azure Data Services & Cloud Analytics
+Azure SQL Database, Cosmos DB, Storage Accounts, Eventstreams, and Microsoft Fabric.
+### 🐍 Python & Pandas for Data Analytics
+Data cleaning, EDA, NumPy, Pandas, Matplotlib, Seaborn, and business insights.
 
-### 📈 Tableau Dashboard Project
-- Interactive dashboards and visual storytelling
-- Filters, calculated fields, and geographic analysis
-- Trend and performance reporting
+---
 
-### 📊 Power BI Analytics Project
-- Data transformation with Power Query
-- DAX calculations and data modelling
-- Interactive business intelligence dashboards
+## 🏆 Professional Highlights
+
+- 📊 Analysed healthcare and commercial datasets supporting a **$1.8B+ product portfolio**
+- 📈 Developed **5+ executive dashboards** for KPI tracking, patient trends, and business performance  
+- 🎯 Delivered insights across **20+ analytical workstreams**  
+- 🥇 Winner – Analytics Case Study Competition  
+- 🏅 Recipient of the Arjuna Agility Award  
+- 🤝 Collaborated with cross-functional stakeholders to drive data-driven decisions  
 
 ---
 
 ## 🌱 Currently Learning
 
 - Advanced SQL
-- Python for Data Analytics
-- Azure Data Services
-- Business Intelligence Best Practices
+- Microsoft Fabric
+- Azure Data Engineering Concepts
+- Statistical Analysis with Python
 - Data Engineering Fundamentals
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/riyamahajan14
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: www.linkedin.com/in/riya-mahajan-98041a1b6
+- 📧 Email: riya.gandhi2463@gmail.com
 
 ---
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+## 💡 Quote
+
+> "Without data, you're just another person with an opinion." – W. Edwards Deming
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:667EEA,50:764BA2,100:F093FB&section=footer"/>
+</p>
